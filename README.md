@@ -16,6 +16,6 @@ Los notebooks guían paso a paso a través de los siguientes conceptos esenciale
 * **Manejo de Datos Faltantes (NaN):**
     * Identificación y eliminación de filas con datos nulos (`.dropna()`).
     * Técnicas de imputación: relleno de nulos con valores como la media o la mediana (`.fillna()`).
-* **Selección y Filtrado:** Acceso a datos mediante `.loc[]` e `.iloc[]`.
+* **Selección y Filtrado:** Acceso a datos mediante `.loc[]` e `.
 * **Limpieza de Datos:** Renombrado de columnas, corrección de tipos de datos.
 
